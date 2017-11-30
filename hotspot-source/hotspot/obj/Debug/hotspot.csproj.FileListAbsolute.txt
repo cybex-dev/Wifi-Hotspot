@@ -1,0 +1,36 @@
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\bin\Debug\hotspot.exe.config
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\bin\Debug\hotspot.exe
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\bin\Debug\hotspot.pdb
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.csprojResolveAssemblyReference.cache
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.Form1.resources
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.Properties.Resources.resources
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.csproj.GenerateResource.Cache
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.exe
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot\hotspot\obj\Debug\hotspot.pdb
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.pdb
+C:\ghoulserver\transfer-project\hotspot\hotspot\bin\Debug\hotspot.pdb
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.csprojResolveAssemblyReference.cache
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.Form1.resources
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.Properties.Resources.resources
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.csproj.GenerateResource.Cache
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.window_about.resources
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.window_options.resources
+C:\ghoulserver\transfer-project\hotspot\hotspot\bin\Debug\hotspot.dll.config
+C:\ghoulserver\transfer-project\hotspot\hotspot\bin\Debug\hotspot.dll
+C:\ghoulserver\transfer-project\hotspot\hotspot\obj\Debug\hotspot.dll
+C:\ghoulserver\transfer-project\hotspot\hotspot\bin\Debug\hotspot.exe.config
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\bin\Debug\hotspot.exe.config
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.pdb
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\bin\Debug\hotspot.exe.manifest
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\bin\Debug\hotspot.application
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\bin\Debug\hotspot.exe
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\bin\Debug\hotspot.pdb
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.csprojResolveAssemblyReference.cache
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.window_about.resources
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.Form1.resources
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.window_options.resources
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.Properties.Resources.resources
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.csproj.GenerateResource.Cache
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.exe.manifest
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.application
+C:\ghoulserver\transfer-project\hotspot-source\hotspot\obj\Debug\hotspot.exe

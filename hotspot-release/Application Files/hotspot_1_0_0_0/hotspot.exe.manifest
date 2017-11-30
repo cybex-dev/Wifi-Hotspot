@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="hotspot.exe" version="1.0.0.0" publicKeyToken="22e7ba1ac4205ced" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="hotspot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="hotspot.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="hotspot.exe" size="36816">
+      <assemblyIdentity name="hotspot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/O6kDRjNHQvhV6e/iwVKSYVbOwBZ5VHARLlJTdM9FZM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="hotspot.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CYBEX-LAPTOP\CybeX" issuerKeyHash="41f7a7b1d091e40dd7fc1b9c1cd9ba0e6ad88fdb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>H8bqhROldZ1DeuJq1RttQnnnUEKdq4k2Cv//0NAoB08=</DigestValue></Reference></SignedInfo><SignatureValue>bvsyirvDjjepeVTf9Pj3kOOjY8j59mUiwXag5leO1Ggic9A9bFWXPYEHyDINTuaAQ+Lf8wPR++4YnheYETlVkKjo14KeFPYCYCg/oTOiGFOZhNN+bddZ9GP5gjeenXjdSbQE6zXtAxecFw6kIrFJvcbOXOhsavMNpoQqEtYJhGs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>w5n7LLmYC88K/bZQOXvkFgLjX2oYoVrCCxtkhYck+Z3KfKP4qPU4p8LOECZ3FN5p47lXKVihZ0V26eMk2wbZuYSAc0aSd3e+xcEDrpCngBXhPDEAY0+IMqnxkamrld9Nkq/2moEbkFmK9e2GrVGlNIUQi6yKgfJY1PW5E9j48kU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4f0728d0d0ffff0a3689ab9d4250e779426d1bd56ae27a439d75a51385eac61f" Description="" Url=""><as:assemblyIdentity name="hotspot.exe" version="1.0.0.0" publicKeyToken="22e7ba1ac4205ced" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CYBEX-LAPTOP\CybeX</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dy2ZoADgTF7nvvFFqDX8jQ+H7upQrKu8b1tNok4AfxM=</DigestValue></Reference></SignedInfo><SignatureValue>sqZcVKqnZkyOCxFeO7sGuCVcz0sJTFmISvhCW/NInmg62jcUzxLbNyYjFaKUM81SKO43MyCfqrGcgxGlMWUfhv0wTcfHkCRlh01rnLjQ2qt+xxXtw9XPD8EN/uFbN2Z4f7tHkvoY5PfNfOvxGSD8sAjZl1fXPWzXtoIgOzjmeQ0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>w5n7LLmYC88K/bZQOXvkFgLjX2oYoVrCCxtkhYck+Z3KfKP4qPU4p8LOECZ3FN5p47lXKVihZ0V26eMk2wbZuYSAc0aSd3e+xcEDrpCngBXhPDEAY0+IMqnxkamrld9Nkq/2moEbkFmK9e2GrVGlNIUQi6yKgfJY1PW5E9j48kU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQFhH7H9U/K6JGCwLMpOHq9TANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAQwBZAEIARQBYAC0ATABBAFAAVABPAFAAXABDAHkAYgBlAFgwHhcNMTUxMjE1MDgzMjUyWhcNMTYxMjE0MTQzMjUyWjAvMS0wKwYDVQQDHiQAQwBZAEIARQBYAC0ATABBAFAAVABPAFAAXABDAHkAYgBlAFgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMOZ+yy5mAvPCv22UDl75BYC419qGKFawgsbZIWHJPmdynyj+Kj1OKfCzhAmdxTeaeO5VylYoWdFdunjJNsG2bmEgHNGknd3vsXBA66Qp4AV4TwxAGNPiDKp8ZGpq5XfTZKv9pqBG5BZivXthq1RpTSFEIusioHyWNT1uRPY+PJFAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAUC/d/sDnnm9sLhjBo5MTAElQo43/B5VbWKAjgWIfHxdhmUbtihHXmfQ2iahll/DHGNGcA3Z2kk+GLkGhvgofs1dYbFSvI43/bCozfgM65HZ+YLnWFfWMlWcPj1dC3xCz2dnSwzMnufHCKJ2Kr8CC9ozXj6Pw49MDmnc9+1CRE/w=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

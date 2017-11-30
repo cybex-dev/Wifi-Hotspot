@@ -1,0 +1,5 @@
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot-main\hotspot-main\obj\Debug\hotspot-main.csprojResolveAssemblyReference.cache
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot-main\hotspot-main\bin\Debug\hotspot-main.dll
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot-main\hotspot-main\bin\Debug\hotspot-main.pdb
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot-main\hotspot-main\obj\Debug\hotspot-main.dll
+c:\users\cybex\documents\visual studio 2015\Projects\hotspot-main\hotspot-main\obj\Debug\hotspot-main.pdb
